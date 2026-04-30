@@ -1,5 +1,5 @@
 import pytest
-from main import apply_partner_rules
+from policy_engine import apply_partner_rules
 
 # --- Test Data ---
 MOCK_INVENTORY = [
